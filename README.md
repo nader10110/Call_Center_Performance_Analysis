@@ -1,60 +1,55 @@
-# 📞 Call Center Performance Analysis
+# 📞 Call Center Performance Analysis Dashboard
 
-## 📌 Project Overview
-This project analyzes **200K+ sales and marketing calls** using Excel to uncover insights on agent efficiency, call outcomes, and customer behavior.  
-The goal is to help management improve **conversion rates**, reduce **abandoned calls**, and identify **top-performing markets**.
+## 📌 Overview
+Analyzed **200K+ sales & marketing calls** using Excel to evaluate agent performance, customer behavior, and call outcomes.  
+The dashboard provides **actionable insights** that help reduce abandoned calls, improve conversion efficiency, and identify high-value markets.  
 
 ---
 
-## 🎯 Objectives
-- Track **agent performance** across 200K+ calls.
-- Identify **root causes** of failed and abandoned calls.
-- Analyze **customer demographics** (gender, location).
-- Provide **actionable recommendations** to improve efficiency.
+## 🎯 Business Questions
+1. Which agents drive the highest call success rates?  
+2. What are the main causes of **abandoned calls**?  
+3. Which customer segments (gender, location) are most engaged?  
+4. How can management **improve conversion rates** and efficiency?  
 
 ---
 
 ## 🔑 Key Insights
-- **Overall Success Rate:** ~42% of calls were successful.  
-- **Abandoned Calls:** 44K+ abandoned, with **30% due to technical issues**.  
-- **Top Agent:** Ava Sandoval with **40K+ calls**.  
-- **Performance Gap:** Drew Clay had **high customer rating (4.3/5)** but only **20% success rate**.  
-- **Customer Demographics:** 70% of calls came from male customers.  
-- **Top Market:** New York with **4,355 calls**.  
+- **Success Rate:** Only **42%** of calls were successful.  
+- **Abandoned Calls:** 44K+ calls dropped, with **30% due to technical issues** → major opportunity for improvement.  
+- **Top Agent:** Ava Sandoval handled **40K+ calls** effectively.  
+- **Performance Gap:** Drew Clay scored high customer ratings (4.3/5) but only **20% success rate**.  
+- **Customer Demographics:** 70% of calls came from **male customers**.  
+- **Geographic Trends:** **New York** led with **4,355 calls**, highlighting it as a key market.  
 
 ---
 
-## 🛠 Tools Used
-- **Excel** → Data cleaning, pivot tables, dashboards.  
-- **Power Query / VBA** (for automation in .xlsm).  
-- **Data Visualization** → Charts & KPIs.  
+## 🛠 Tools & Methods
+- **Excel** → Data cleaning, transformation, and pivot tables.  
+- **VBA / Macros** → Automated repetitive calculations in `.xlsm`.  
+- **Data Visualization** → Dynamic charts, KPIs, and interactive slicers.  
+- **Analytical Approach** → KPI tracking, segmentation (by agent, state, gender), root cause analysis.  
 
 ---
 
-## 📊 Dashboard Highlights
-- **Call Outcomes** → Success vs Failed vs Abandoned.  
-- **Agent Analysis** → Top-performing and underperforming agents.  
-- **Market Insights** → Calls by state and customer demographics.  
-- **Root Cause Breakdown** → Reasons for abandoned calls.  
+## 📊 Dashboard Features
+- **Call Outcomes Breakdown** → Success, Failed, Abandoned.  
+- **Agent Leaderboard** → Performance by volume, success %, and customer rating.  
+- **Customer Demographics** → Gender distribution and trends.  
+- **Market Insights** → Calls by state with top 5 performing regions.  
+- **Root Cause Analysis** → Reasons for abandoned calls.  
 
 ---
 
-## 📌 Recommendations
-- Fix **technical issues** to reduce abandoned calls.  
-- Provide **training for underperforming agents**.  
-- Focus on **New York & California** as high-ROI markets.  
-- Use demographic insights to **target male-dominant segments**.  
+## 🚀 Recommendations
+- **Fix technical issues** causing 30% of abandoned calls.  
+- Provide **targeted training** for agents with low success but high customer ratings.  
+- Focus on **New York & California** as strategic markets.  
+- Leverage demographic trends (70% male callers) for **targeted campaigns**.  
 
 ---
 
-## 🚀 Next Steps
-- Build a **predictive model** for call success probability.  
-- Automate data collection from **CRM / APIs**.  
-- Deploy an **interactive dashboard** (Power BI / Tableau / Streamlit).  
-
----
-
-## 📖 What I Learned
-- How to transform raw call logs into **business insights**.  
-- Importance of **storytelling with data** for decision-making.  
-- Designing dashboards that are **clear, actionable, and sharable**.  
+## 📖 Learnings
+- Designed an **end-to-end Excel dashboard** for business decision-making.  
+- Learned to translate raw logs into **story-driven insights**.  
+- Balanced **technical analysis** with **business storytelling** for stakeholders.  
